@@ -1,0 +1,40 @@
+Date: 25 June 2026
+Platform: LabEx Corporation – Project Phoenix
+Duration: ~45 minutes
+Objective: Learn and practice Linux user and group management commands
+Key Commands Practiced:
+
+whoami, uname -a, uptime
+useradd, passwd, usermod, userdel
+groupadd, usermod -aG
+File redirection (>, >>)
+
+What I Did (Step-by-Step Summary):
+
+Created system report using whoami, uname -a, and uptime
+Created multiple user accounts with different options (home directory, custom shell, etc.)
+Set and changed passwords
+Modified user properties and added users to groups
+Deleted users (with and without home directories)
+Inspected /etc/passwd and /etc/group files
+
+Key Learnings:
+
+Linux uses /etc/passwd and /etc/shadow for user information
+Importance of proper permissions when managing user home directories
+Difference between useradd and adduser
+How to safely delete user accounts without leaving orphan files
+Real-world importance of following security policies when managing users
+
+Real-World Application:
+In a company these skills are used daily for:
+
+Onboarding new employees (creating accounts)
+Managing access rights (adding to groups)
+Offboarding staff (disabling/deleting accounts)
+Troubleshooting “user cannot login” issues
+
+Challenges Faced & How I Solved Them:
+
+Typo in filename (systemreporty.txt) → Fixed by using consistent naming (system_report.txt)
+Learned to use >> for appending instead of overwriting
