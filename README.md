@@ -16,3 +16,55 @@ It contains structured labs, challenges, projects, and self-study exercises from
 ---
 
 ### 📂 Repository Structure
+├── LabEx/
+│   ├── Linux-User-Management/
+│   ├── File-Permissions/
+│   └── ...
+├── Home-Lab/
+├── TryHackMe/
+├── Projects/
+├── Documentation/
+└── README.md
+text---
+
+### 🛠 Skills I'm Actively Building
+
+- **Linux System Administration** (User management, permissions, processes, networking)
+- **IT Helpdesk & Troubleshooting** (Windows + Linux)
+- **Network Fundamentals** (DNS, DHCP, TCP/IP, troubleshooting)
+- **Cybersecurity Basics** (Monitoring, incident response, tools like Wireshark & Microsoft Sentinel)
+- **Cloud Fundamentals** (Azure, AWS)
+- **Documentation & Reporting**
+
+---
+
+### Completed Labs & Challenges
+
+#### LabEx (Project Phoenix)
+- [x] **Joker's Trick** - Linux User Account Management (25 June 2026)
+- [ ] File & Directory Management
+- [ ] Linux Permissions & Access Control
+- [ ] Process Management
+- [ ] Networking & Firewall Configuration
+
+*(More labs will be added weekly)*
+
+---
+
+### Connect With Me
+- **Portfolio**: [denise-sophy.github.io](https://denise-sophy.github.io)
+
+
+---
+
+### Future Goals
+- Complete CompTIA A+ and Network+ 
+- Build a functional Home Lab (Active Directory + Monitoring)
+- Document at least 4–5 structured labs per week
+- Transition from learning to real-world freelance/volunteer IT support
+
+---
+
+**"Consistent daily practice beats occasional perfection."**
+
+Last updated: 25 June 2026
